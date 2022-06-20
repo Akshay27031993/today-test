@@ -1,3 +1,4 @@
 date
 uptime 
 cat /etc/fstab
+systemctl status firewalld.service
