@@ -1,2 +1,3 @@
 date
 uptime 
+cat /etc/fstab
